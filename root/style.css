@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.subheading {margin-top: 20px; font-size: 20px; letter-spacing: 4px;}
+
+.servicestitle {padding:10px; font-family: 'Limelight', cursive; font-size: 45px; letter-spacing: 2px;}
+.services {background-color:#FFFFFF;height:auto; width:100%; border:#FF8FA4 solid; border:#828282 solid; display:inline-block;}
+
+.portfoliotitle {padding:10px; font-family: 'Limelight', cursive; font-size: 45px; letter-spacing: 2px;}
+.portfolio {background-color:#EA526F;height:auto; width:100%; border:#FF8FA4 solid;}
+.container {max-height: 50%; max-with:50%;}
+.assantecontainer {display:inline-block; max-height: 50%; max-width: 50%; margin:15px; }
+.advilcontainer {display:inline-block; max-height: 50%; max-width: 50%; margin:15px; }
+.kraftcontainer {display:inline-block; max-height: 50%; max-width: 50%; margin:15px; }
+.sixdegreescontainer {display:inline-block; max-height: 50%; max-width: 50%; margin:15px; }
+
+
+
+.contactinformation {border:#269AF1 solid;background-color:#83EAFF;}
+.contactheading {margin-top: 15px; padding:15px;font-family: 'Limelight', cursive; letter-spacing:8px;}
+
+.linkedin {width:20%; height:20%; display:inline;}
+.instagram {height:25%; width:20%; display:inline;}
+.phone {height:25%; width:20%; margin-bottom: 10px; margin-top:30px;}
+.email {height:25%; width: 28%; margin-bottom: 10px; margin-top:30px}
